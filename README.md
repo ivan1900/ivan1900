@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ivan1900
-- 👀 I’m interested in DDD in php, and any language
-- 🌱 I’m currently learning DDD over php
-- 💞️ I’m looking to collaborate on PHP based proyects and if possible using DDD
+- 👀 I’m interested in DDD and Hexagonal paradigms
+- 🌱 I’m currently learning ways to use AI
+- 💞️ I’m looking to collaborate with open source proyects
 - 📫 How to reach me ...
 
 <!---
